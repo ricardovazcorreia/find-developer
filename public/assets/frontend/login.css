@@ -1,0 +1,13 @@
+body {
+    background-color: #f1f1f1;
+}
+.wrapper {
+    display: flex;
+    align-items: center;
+    height: 100vh;
+}
+
+.form-control:focus {
+    outline: 0;
+    box-shadow: none;
+}
